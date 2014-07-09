@@ -12,13 +12,10 @@
     </servlet>
 
     <servlet-mapping>
-        <servlet-name>servlet</servlet-name>
-        <url-pattern>/himi</url-pattern>
+        <servlet-name>tbservlet</servlet-name>
+        <url-pattern>/</url-pattern>
     </servlet-mapping>
 
-    <servlet-mapping>
-        <servlet-name>servlethimi</servlet-name>
-        <url-pattern>/xiaominghimi</url-pattern>
-    </servlet-mapping>
+
 
 </web-app>
